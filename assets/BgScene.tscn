@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://assets/landscape_v2_edit1.tscn" type="PackedScene" id=1]
+
+[node name="BgScene" type="Spatial"]
+
+[node name="landscape_v2_edit1" parent="." instance=ExtResource( 1 )]

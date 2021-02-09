@@ -1,0 +1,3 @@
+fullscreen_bin=[INSTALL_DIR]\driveqp_scrsaver.exe
+config_bin=wscript [INSTALL_DIR]\driveqp_scrsaver_about.vbs
+preview_img=[INSTALL_DIR]\driveqp_scrsaver_preview.bmp

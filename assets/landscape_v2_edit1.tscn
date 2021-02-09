@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://resources/landscape_v2_edit1.escn" type="PackedScene" id=1]
+
+[node name="landscape_v2_edit1" instance=ExtResource( 1 )]
